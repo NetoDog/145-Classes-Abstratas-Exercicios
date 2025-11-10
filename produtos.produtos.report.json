@@ -1,0 +1,12 @@
+{
+  "TotalProcessados": 5,
+  "TotalComErro": 2,
+  "Erros": [
+    "Linha 4: Preco nao pode ser negativo",
+    "Linha 6: Categoria ausente"
+  ],
+  "TotaisPorCategoria": {
+    "Papelaria": 2,
+    "Eletronicos": 1
+  }
+}

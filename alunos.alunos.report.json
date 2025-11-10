@@ -1,0 +1,12 @@
+{
+  "TotalProcessados": 5,
+  "TotalComErro": 2,
+  "Erros": [
+    "Linha 5: Nome ausente",
+    "Linha 6: Turma ausente"
+  ],
+  "TotaisPorCategoria": {
+    "101": 2,
+    "102": 1
+  }
+}
